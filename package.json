@@ -1,0 +1,22 @@
+{
+  "name": "zym-ui",
+  "version": "0.1.0",
+  "description": "react native ui",
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zbncs/zym-ui.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zbncs/zym-ui/issues"
+  },
+  "homepage": "https://github.com/zbncs/zym-ui#readme"
+}
